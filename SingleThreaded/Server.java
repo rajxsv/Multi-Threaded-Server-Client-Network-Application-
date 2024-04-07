@@ -21,7 +21,7 @@ public class Server {
         toCLient.close();
         fromClient.close();
         acceptedConnection.close();
-        // socket.close();
+        socket.close();
       }
     } catch (Exception e) {
       e.printStackTrace();
