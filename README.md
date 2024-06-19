@@ -1,4 +1,3 @@
-# (Under Development)
 ## Overview
 
   
